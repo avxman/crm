@@ -13,7 +13,7 @@ class CRMServiceProvider extends ServiceProvider
      * Bootstrap any application services.
      *
      * @param Filesystem $filesystem
-     * @return void
+     * @return void info
      */
     public function boot(Filesystem $filesystem){
         $this->publishes([
