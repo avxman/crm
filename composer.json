@@ -1,0 +1,26 @@
+{
+    "name": "avxman/crm",
+    "description": "It's crm template project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Kheyder",
+            "email": "kheyder.a.v@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AVXMAN\\CRM\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AVXMAN\\CRM\\CRMServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
