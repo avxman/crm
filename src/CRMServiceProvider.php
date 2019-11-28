@@ -32,9 +32,9 @@ class CRMServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->mergeConfigFrom(
-            $this->app->configPath().DIRECTORY_SEPARATOR.'crm.php', 'crm'
-        );
+//        $this->mergeConfigFrom(
+//            $this->app->configPath().DIRECTORY_SEPARATOR.'crm.php', 'crm'
+//        );
     }
 
     /**
