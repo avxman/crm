@@ -1,7 +1,7 @@
 {
     "name": "avxman/crm",
     "description": "It's crm template project",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "type": "library",
     "license": "MIT",
     "authors": [
