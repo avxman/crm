@@ -3,7 +3,7 @@
 ```bash
 Админ панель написана на фрейморке laravel
 ```
-##Установка
+## Установка
 ```bash
 composer require avxman/crm
 ```
